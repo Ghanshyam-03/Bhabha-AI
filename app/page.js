@@ -18,6 +18,7 @@ export default function home() {
         <div className='min-h-screen bg-[#131528]'>
         <Welcome />
         </div>
+        <Newsletter/>
         <Newsletter />
         <Footer />
 </div>
